@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarpiyush1749
 - 👀 I’m interested in aws cloud,python & datascience relates
-- 🌱 I’m currently learning ... advanced java
+- 🌱 I’m currently learning ... terraform,docker 
 - 💞️ I’m looking to collaborate on ... python
 - 📫 How to reach me ... email id=piyush130399@gmail.com
 
